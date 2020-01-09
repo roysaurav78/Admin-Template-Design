@@ -126,3 +126,9 @@ Gentelella is licensed under The MIT License (MIT). Which means that you can use
 
 Project is developed and maintained by [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns
 # Admin-Template-Design
+![1](https://user-images.githubusercontent.com/29045747/72044169-4bda9980-32dd-11ea-93f7-796dac4ff885.PNG)
+![2](https://user-images.githubusercontent.com/29045747/72044175-4ed58a00-32dd-11ea-99dd-ba1ad03c0d77.PNG)
+![3](https://user-images.githubusercontent.com/29045747/72044180-5137e400-32dd-11ea-977a-f7c2800266ad.PNG)
+![4](https://user-images.githubusercontent.com/29045747/72044189-54cb6b00-32dd-11ea-842c-3a0f446ac908.PNG)
+![5](https://user-images.githubusercontent.com/29045747/72044197-59901f00-32dd-11ea-8398-d93a8db02efc.PNG)
+
